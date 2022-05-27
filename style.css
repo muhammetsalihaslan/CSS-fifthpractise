@@ -15,3 +15,17 @@ nav{
     text-align: center;
 }
 
+aside{
+    background-color:yellow;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+}
+
+.aside{
+    padding-top:10rem;
+    font-size:2rem;
+}
+
+
+
