@@ -6,3 +6,12 @@ header{
     font-weight:bold;
     text-align: center;
 }
+
+nav{
+    background-color:blue;
+    margin-top: 3px;
+    padding:1rem;
+    font-size:2rem;
+    text-align: center;
+}
+
