@@ -38,5 +38,18 @@ main{
     font-size:2rem;
 }
 
+.Clearfix{
+    clear: both;
+}
+
+footer{
+  background-color:black;
+  padding: 2rem;
+  color:white;
+  text-align:center;
+  font-size:2rem;
+  margin-top:2px;
+}
+
 
 
